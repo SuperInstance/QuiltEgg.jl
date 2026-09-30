@@ -1,0 +1,6 @@
+name = "QuiltEgg"
+uuid = "4bb0d5af-9afb-5855-b48c-24873c74bb6b"
+repo = ""
+
+[compat]
+julia = "1.9"
