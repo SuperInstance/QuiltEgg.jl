@@ -1,0 +1,16 @@
+name = "QuiltEgg"
+uuid = "4bb0d5af-9afb-5855-b48c-24873c74bb6b"
+authors = ["SuperInstance Fleet <mavis@superinstance.local>"]
+version = "0.1.0"
+
+[deps]
+QuiltCanary = "b447e293-35ea-5a26-9ff7-553b00f3d099"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
